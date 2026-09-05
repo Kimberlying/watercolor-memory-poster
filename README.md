@@ -6,9 +6,10 @@ It turns photographs into 3:4 editorial postcard-memory posters.
 ## 两个系列
 
 - 场景系列：城市、河流、自然、建筑、道路和日落。
-- 人物系列：运动、旅行、家庭和人物动作；使用 `Watercolor Motion`，重点是动作骨架、人物关系和真实运动方向，而不是静态水彩肖像。人物水彩可以中等偏大，不能被压缩成看不清的小图。
+- 人物系列：运动、旅行、家庭和人物动作；使用 `Watercolor Motion`，重点是动作骨架、人物关系和真实运动方向，而不是静态水彩肖像。人物水彩默认缩小到正常复现尺度的 60%–75%；留白不足时可继续缩小，意境优先。
 - Scene series: cities, rivers, nature, architecture, roads, and sunsets.
 - People series: movement, travel, family, and human gestures. Use `Watercolor Motion` to preserve the action skeleton, relationships, and physical direction of motion.
+- In the people series, start at 60%–75% of the normal readable figure scale and reduce further when needed. Negative space and atmosphere take priority.
 
 ## 固定结构
 

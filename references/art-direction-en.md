@@ -32,7 +32,8 @@ When several people define the moment, preserve their relative scale, distance, 
 - Retain the emotional center, essential silhouette, action direction, important objects, and a few environmental clues.
 - Let unnecessary detail dissolve into paper, pigment, motion, and empty space.
 - Scene-series artwork is usually medium-small, about 35%–60% of the lower-half width, with generous margins.
-- Watercolor Motion artwork is usually about 45%–70% of the lower-half width so the action remains readable; do not shrink people into an unreadable miniature.
+- Negative space and atmosphere take priority in the people series. Starting from a normal readable depiction, reduce the watercolor person to about 60%–75% of that visual scale; if the lower half still feels crowded, reduce below 60% until the paper becomes the dominant area.
+- Do not turn the person into an unreadable dot: the facial mood, center of gravity, key gesture, and relationships must remain recognizable. When a larger figure conflicts with a better atmosphere, choose the smaller figure and more paper.
 - Keep the environment lighter than the subject and avoid filling the whole lower half.
 
 ## Scene series — Postcard Scene
@@ -56,6 +57,7 @@ Keep the original perspective and major direction, but allow details to dissolve
 - A few fast, directional dry-brush sweeps may suggest speed, rotation, swing, or inertia, but never use comic-book speed lines.
 - Motion blur must follow real physical direction, never random smearing.
 - Fade the environment more than the people so the viewer looks at the action itself.
+- Keep continuous ivory paper around the figure, especially above the head, along the gesture direction, and on both sides of the body. The person is a memory anchor; negative space and atmosphere are the main subject.
 
 Build the watercolor from an action chain such as:
 

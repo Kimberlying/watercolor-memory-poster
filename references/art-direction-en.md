@@ -1,6 +1,6 @@
 # Postcard Memory Poster — Art Direction
 
-This is the English counterpart of `references/art-direction.md`. It describes the same established visual language and should be used when the user requests English or bilingual guidance.
+This is the English counterpart of `references/art-direction.md`. It describes the same established visual language for English-language documentation and readers.
 
 ## Core relationship
 

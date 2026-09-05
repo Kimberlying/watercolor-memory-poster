@@ -1,8 +1,8 @@
 ---
 name: postcard-memory-poster
-description: "将上传的照片制作成高端 3:4 旅行明信片意境海报：上半部保留真实照片，下半部把地点或人物动作提炼为轻盈的水彩记忆。适用于城市、河流、自然风景、旅行、运动、人物和家庭瞬间；人物系列必须使用 Watercolor Motion 动态水彩规则。Supports Chinese, English, and bilingual responses with switchable poster-text language."
+description: "将上传的照片制作成高端 3:4 旅行明信片意境海报：上半部保留真实照片，下半部把地点或人物动作提炼为轻盈的水彩记忆。适用于城市、河流、自然风景、旅行、运动、人物和家庭瞬间；人物系列必须使用 Watercolor Motion 动态水彩规则。"
 metadata:
-  short-description: "中英双语可切换的照片水彩明信片海报"
+  short-description: "照片水彩明信片意境海报"
 ---
 
 # 明信片意境海报
@@ -24,15 +24,10 @@ metadata:
 7. 直接生成海报，不要只返回 Prompt，除非用户明确只要 Prompt。
 8. 检查成品；一张照片对应一张海报，多张照片不得合成 collage。
 
-## 语言切换｜Language switching
+## 参考文件
 
-- 支持 `中文 / Chinese`、`English / 英文` 和 `双语 / bilingual` 三种说明模式。
-- 用户明确指定语言时，按指定语言回应；未指定时，跟随用户最近一条消息的主要语言。
-- 双语模式先给中文，再给对应的英文；只翻译说明和参数，不重复冗长的内部推理。
-- 将说明语言与海报文字语言分开处理：`response_language` 控制回复，`poster_text_language` 控制标题、地点和年份。
-- `poster_text_language` 未指定时，保留项目既有的克制英文标题风格；不要自动把用户提供的标题翻译成另一种语言。
-- 用户可用自然语言切换，例如“改用英文说明”“Switch to Chinese”“中英双语，海报标题保留英文”。详细用法见 [`references/language-switching.md`](references/language-switching.md)。
-- 中文模式读取 [`references/art-direction.md`](references/art-direction.md)；英文模式读取 [`references/art-direction-en.md`](references/art-direction-en.md)；双语模式以两份参考中的同一套规则为准，不重复生成两张海报。
+- 需要完整中文视觉约束时，读取 [`references/art-direction.md`](references/art-direction.md)。
+- [`references/art-direction-en.md`](references/art-direction-en.md) 是面向英文读者的同一套视觉规范翻译；它服务于文档阅读，不代表 Skill 有运行时语言切换功能。
 
 ## 不可妥协的版式
 

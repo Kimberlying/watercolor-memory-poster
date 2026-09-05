@@ -1,4 +1,4 @@
 interface:
   display_name: "明信片意境海报 / Postcard Memory Poster"
-  short_description: "照片水彩明信片｜Bilingual postcard watercolor"
-  default_prompt: "使用 $postcard-memory-poster / Use $postcard-memory-poster to create a 3:4 postcard-memory poster with Chinese, English, or bilingual switching."
+  short_description: "照片水彩明信片｜Postcard watercolor"
+  default_prompt: "使用 $postcard-memory-poster 把这张照片做成一张 3:4 明信片意境海报。"

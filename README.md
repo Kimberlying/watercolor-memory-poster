@@ -52,6 +52,15 @@ $postcard-memory-poster
 
 语言切换的完整规则见 [`references/language-switching.md`](references/language-switching.md)。
 
-完整规则见 [`SKILL.md`](SKILL.md)、[`references/art-direction.md`](references/art-direction.md) 和英文版 [`references/art-direction-en.md`](references/art-direction-en.md)。
+完整视觉规则见 [`SKILL.md`](SKILL.md)、[`references/art-direction.md`](references/art-direction.md) 和英文版 [`references/art-direction-en.md`](references/art-direction-en.md)。
+
+## 样例｜Examples
+
+这些 PNG 是已验证过的风格样例，不是生成时必须逐像素复制的模板：
+
+- 场景系列 / Scene series: [`melbourne-bayside-watercolor-memory-v1.png`](melbourne-bayside-watercolor-memory-v1.png)、[`melbourne-yarra-river-editorial-poster.png`](melbourne-yarra-river-editorial-poster.png)
+- 人物系列 / People series: [`watercolor-memory-person-blue-v2.png`](watercolor-memory-person-blue-v2.png)、[`watercolor-memory-person-blue-v1.png`](watercolor-memory-person-blue-v1.png)
+
+These examples show the intended balance: a faithful photograph above, a smaller watercolor memory below, and negative space that carries the atmosphere.
 
 当前目录中的 PNG 是这一风格的历史成品记录，不作为生成时必须复制的具体画面。

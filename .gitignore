@@ -1,0 +1,6 @@
+# Local-only photo inputs and generated poster outputs
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
